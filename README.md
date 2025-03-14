@@ -1,10 +1,10 @@
 ![ArchViz_DBdiagram](https://github.com/user-attachments/assets/f115fb99-03d5-4951-a95c-bf35365a72c8)
 
-Architectural Visualization Database
+# Architectural Visualization Database
 
 This database is designed to manage an architectural visualization system, incorporating various roles such as developers, managers, graphic specialists, and investment tracking.
 
-Key Components:
+## Key Components:
 
 Department Management:
 
